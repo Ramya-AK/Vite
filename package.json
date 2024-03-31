@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": " VITE_SOME_KEY=test02 vite ",
+    "dev": "vite ",
     "build": "vite build",
     "preview": "vite preview",
     "test:unit": "vitest",
